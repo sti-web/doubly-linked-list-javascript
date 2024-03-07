@@ -64,4 +64,6 @@ This function should remove a node at a specified index in a DoublyLinkedList. I
 
 This function should reverse all of the nodes in a DoublyLinkedList. It should return the reversed DoublyLinkedList.
 
+![All tests passed](https://res.cloudinary.com/adhoonline/image/upload/v1705612662/_Users_stiweb_sites_learning_singly-linked-list_index-portrait_bi9pot.png)
+
 _Слава Україні!_
